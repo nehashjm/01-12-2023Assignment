@@ -1,0 +1,10 @@
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\obj\Debug\ProjectDay20.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\obj\Debug\ProjectDay20.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\bin\Debug\ProjectDay20.exe.config
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\bin\Debug\ProjectDay20.exe
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\bin\Debug\ProjectDay20.pdb
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\bin\Debug\MySharedLibrary.dll
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\bin\Debug\MySharedLibrary.pdb
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\obj\Debug\ProjectDay20.csproj.CopyComplete
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\obj\Debug\ProjectDay20.exe
+D:\mphasis Simplilearn\Day20\MySharedLibrary\ProjectDay20\obj\Debug\ProjectDay20.pdb
